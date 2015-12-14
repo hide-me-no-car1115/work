@@ -1,3 +1,4 @@
 わかるGitコマンド
 init
 git comand
+tyuugoku
